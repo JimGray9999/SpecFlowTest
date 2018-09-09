@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTest", "SpecFlowTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTestProj", "SpecFlowTestProj\SpecFlowTestProj.csproj", "{D265DBAE-71BC-4118-ACE0-49685B424D75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{24BDB241-96FB-4CA7-89A6-C8FBBD28925C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D265DBAE-71BC-4118-ACE0-49685B424D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D265DBAE-71BC-4118-ACE0-49685B424D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D265DBAE-71BC-4118-ACE0-49685B424D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24BDB241-96FB-4CA7-89A6-C8FBBD28925C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BDB241-96FB-4CA7-89A6-C8FBBD28925C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BDB241-96FB-4CA7-89A6-C8FBBD28925C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BDB241-96FB-4CA7-89A6-C8FBBD28925C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
